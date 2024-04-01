@@ -20,7 +20,7 @@ variable "zone_id" {
 }
 
 variable "zone_name" {
-  default = "example.com"
+  default = "nocracingteam.my.id"
 }
 
 variable "tunnel_id" {
